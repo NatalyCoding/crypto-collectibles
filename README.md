@@ -1,1 +1,1 @@
-# crypto-collectibles
+# crypto collectibles
